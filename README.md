@@ -21,6 +21,6 @@
 - Different features extraction method have different effect to text classification.
 - For our example data set:**the combination of count method and multinomial naive bayes** model are best;the combination of tf-idf method and support vector machine which kernel is linear are better than other models.
 
-
+**[Data In Action Series 5:  Regression Models](http://nbviewer.jupyter.org/github/yishi/Data-In-Action-Series-in-Python/blob/master/data_in_action_series_5.ipynb)**
 
 
